@@ -22,4 +22,20 @@ Sistema desktop para controle de vendas desenvolvido para pequenas empresas do m
 ## 🚀 Instalação
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/sistema-controle-vendas.git```
+git clone https://github.com/seu-usuario/sistema-controle-vendas.git
+```
+2. Instale as dependências:
+```
+pip install -r requirements.txt
+```
+3. Execute o sistema:
+```
+python main.py
+```
+
+## 👥 Autores
+- **Fernanda dos Santos Neves**
+- **Marcos Sebastião Gomes Moreira**
+
+## 📄 Licença
+- Este projeto está licenciado sob a MIT License.
